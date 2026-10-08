@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Switch_statement {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter a number in a week: ");
+        System.out.println("Enter a number in a week : ");
         int a = input.nextInt();
         switch(a) {
             case 1:
